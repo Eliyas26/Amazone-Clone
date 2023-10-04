@@ -1,0 +1,58 @@
+
+.home-row{
+    display: flex;
+    z-index:1;
+    margin-left: 5px; 
+    margin-right: 5px; 
+}
+.footer-border{
+    border: 1px solid #DDD;
+    border-radius: 15px;
+    padding:  20px;
+    margin-top: 10px;
+    margin-bottom: 1rem;
+
+
+}
+.footer-border > p{
+    font-size: 13px;
+    line-height: 20px;
+    font-family: Arial,sans-serif;
+    text-align: center
+    
+}
+.in-button{
+    cursor: pointer;
+    background-position: right -170px;
+    height: 30px;
+    width: 232px;
+    color: #000;
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    font-weight: 700;
+    text-shadow: 0 1px 0 #cc9d26;
+    background-color: #eab83a;
+    border-radius: 8px;
+     
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    
+}
+.SignIn-container{
+   padding-top: 10px;
+   margin-bottom: -150px
+   
+}
+.link {
+    text-decoration: none;
+  color: rgb(129, 129, 205);
+  }
+  .link:hover {
+    color: rgb(198, 91, 91);
+  }
+  .Button-link{
+    text-decoration: none;
+  }
